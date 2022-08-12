@@ -1,6 +1,5 @@
 class DiaryEntry
     def initialize(title, contents)
-      # ...
       @diary_entry = {
         title: title,
         contents: contents
